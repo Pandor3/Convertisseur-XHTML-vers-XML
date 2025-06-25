@@ -14,19 +14,19 @@ Normalement vous devriez voir l'organisation de ce dossier ainsi :
 
 Parlons donc plus en détail de chaque fichiers et dossiers se situant ici.
 
-- 1) Fichiers à convertir
+- I. Fichiers à convertir
 Ce dossier est l'endroit où vous devrez déposer vos fichiers .XHTML afin qu'ils soient convertis une fois l'application du Convertisseur lancée.
 
-- 2) Fichiers convertis
+- II. Fichiers convertis
 Ce dossier est l'endroit où les fichiers convertis en .XML se trouveront une fois que l'application aura terminée la conversion des fichiers .XHTML
 
-- 3) (A LIRE) README
+- III. (A LIRE) README
 Bonjour, c'est là où vous vous trouvez actuellement ! N'hésitez pas à jeter un coup d'oeil à mes autres créations sur ma page Github : https://github.com/Pandor3
 
-- 4) Convertisseur
+- IV. Convertisseur
 Il s'agit de l'application que vous devrez lancer (double-cliquez dessus) afin que vos fichiers .XHTML se trouvant dans le dossier "Fichiers à convertir" soient convertis en fichiers .XML et envoyés dans le dossier "Fichiers convertis".
 
-- 5) Script
+- V. Script
 Voici le script utilisé par le convertisseur en local afin de pouvoir faire la conversion des fichiers mais également :
     - Renvoyer des messages d'erreur en cas de souci lors de la conversion
     - Accepter uniquement des fichiers .XHTML
