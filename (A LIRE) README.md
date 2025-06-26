@@ -1,3 +1,6 @@
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+![Licence](https://img.shields.io/badge/licence-MIT-green.svg)
+
 Bonjour à vous et bienvenue dans ce fichier explicatif du convertisseur XHTML vers XML.
 
 Son but est simple : Il permet de convertir les fichiers dont l'extension est .XHTML en un fichier .XML.
