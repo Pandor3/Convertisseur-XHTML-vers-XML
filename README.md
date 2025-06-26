@@ -21,7 +21,7 @@ Normalement vous devriez voir l'organisation de ce dossier ainsi :
 4) Convertisseur
 5) Script
 
-![Arborescence] (https://ibb.co/7dLvGHHj)
+![Arborescence](https://ibb.co/7dLvGHHj)
 
 (Si les dossiers "Fichiers à convertir" et "Fichiers convertis" ne sont pas présents ce n'est pas grave, le Convertisseur les créera pour vous lors du premier lancement à vide)
 
@@ -56,9 +56,9 @@ GUIDE PAS A PAS POUR UTILISER LE CONVERTISSEUR
 2. Lancez le Convertisseur (Convertisseur.bat)
 
 3. Le Convertisseur vous fera un compte rendu de ce qu'il s'est passé durant la conversion (Erreurs, fichiers ignorés et fichiers convertis)
-![Convertisseur] (https://ibb.co/Jj5VnVp4)
+![Convertisseur](https://ibb.co/Jj5VnVp4)
 
-4. Récupérez vos fichiers convertis en .XML dans le dossier "Fichiers convertis"
+5. Récupérez vos fichiers convertis en .XML dans le dossier "Fichiers convertis"
 
 ==============================================================================
 
