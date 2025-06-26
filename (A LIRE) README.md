@@ -1,5 +1,5 @@
-![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 ![Licence](https://img.shields.io/badge/licence-MIT-green.svg)
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 
 Bonjour à vous et bienvenue dans ce fichier explicatif du convertisseur XHTML vers XML.
 
